@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CameraFollow">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABAgACCAAAgEEKAAAoAAAAYAIAAAAAAQAADCAgAA=</HashCode>
+      <FileName>Assets\CameraFollow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cell">
+    <Position X="4" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTimer">
+    <Position X="0.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACABAAAAAAAAAAAAAAAAAAAIAAAAAAACAAA=</HashCode>
+      <FileName>Assets\GameTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HintButtonController">
+    <Position X="4" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAABAAAAAAAAAAAAAIAAIAAAAAgAAAAAgAAAAAEA=</HashCode>
+      <FileName>Assets\HintButtonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HintRenderer">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACAAIAAAAAAAAAAIAAAAAAAAIAAAAAAAAEA=</HashCode>
+      <FileName>Assets\HintRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="9.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\Maze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeGeneratorCell">
+    <Position X="12.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAQAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>Assets\Maze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeConverter">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAACAA=</HashCode>
+      <FileName>Assets\MazeConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeExit">
+    <Position X="5.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAACEEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MazeExit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeGenerator">
+    <Position X="5.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAIFAAAAQAAAAAIAEAAAAAAAEAEAAAAAAAACAA=</HashCode>
+      <FileName>Assets\MazeGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeManager">
+    <Position X="12.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAEAAIAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MazeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOverviewController">
+    <Position X="5.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\MazeOverviewController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeSaveSystem">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAkAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\MazeSaveSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeSpawner">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABgAACABAAAAAABgAAgAAEAABAYAIAAAAKEAAAA=</HashCode>
+      <FileName>Assets\MazeSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerAnimationController">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAQAAAAAACAAACAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerAnimationController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerControls">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\PlayerControls.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerControls3D">
+    <Position X="4" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\PlayerControls3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerStatsUI">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAEAAAAAAAAQCECAAEAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\PlayerStatsUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quite">
+    <Position X="4" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Quite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SavedMazesMenu">
+    <Position X="11" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAACAIAAAAAAAAAAAAAAAAIAAAAkAAABAIAAA=</HashCode>
+      <FileName>Assets\SavedMazesMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SerializableMaze">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAACAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Assets\SerializableMaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SerializableCell">
+    <Position X="11" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAQAAAAAAAAAAAAAAAAAAAAAABgAAABAAA=</HashCode>
+      <FileName>Assets\SerializableMaze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Assets.DifficultyLevel">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkAAA=</HashCode>
+      <FileName>Assets\DifficultyLevel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
