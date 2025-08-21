@@ -1,1 +1,1 @@
-<img width="1440" alt="Desktop - 3 (1)" src="https://github.com/user-attachments/assets/c8d7962c-aae3-42ab-9e8e-ba1b8b3fce20" />
+<img width="1440"  alt="Desktop - 3 (2)" src="https://github.com/user-attachments/assets/a3bc4af7-124f-4ca8-bd57-4406334bbad8" />
